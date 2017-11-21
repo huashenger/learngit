@@ -1,5 +1,5 @@
 Git is a distributed version control system.
-Git is free software distributed under the GPL. xue an
+Git is a free software distributed under the GPL. xue an
 wo shi shi kan
 Git has a mutable index called stage.
 Git tracks changes.
